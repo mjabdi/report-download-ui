@@ -1,0 +1,4 @@
+export const SANDBOX = false
+
+export const SANDBOX_CLIENT_ID = "AWDJy5gBw1Mvdm5s3Qoo5ZM9qvnezlzts-D1DwIf9dn4xil3DkTJsKYu2XW3P7udelOXgGKTy033_Qjx"
+export const LIVE_CLIENT_ID = "AbAzvBz5j4UROxbdCH51cK1VZcAPWqRc3geVrgKjUswL0WcL1teFZmPMNQvYzE_DrOfT-rfEAKSrwe2v"
