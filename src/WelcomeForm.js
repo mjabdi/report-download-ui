@@ -243,7 +243,7 @@ export default function WelcomeForm() {
 
 
 const getStartedClicked = (event) => {
-
+  console.log(state.birthDate)
   if (!state.birthDate || state.birthDate.length !== 10)
   {
     setState(state => ({...state, birthDateError : true}));

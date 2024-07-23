@@ -120,7 +120,7 @@ const DateField = ({title, value, dateChanged, error}) => {
       const handleYearClicked = (event) => {
           if (!year)
           {
-              setYear(2000)
+              setYear('2000')
           }
       }
     
